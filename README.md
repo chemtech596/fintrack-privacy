@@ -1,8 +1,6 @@
-Privacy Policy for FinTrack
-
+<h1 align="center">FinTrack Privacy Policy</h1><p align="center">
 Last Updated: March 2026
-
-FinTrack is a personal expense tracking application designed to help users manage daily and monthly spending. This Privacy Policy explains how information is handled when you use the FinTrack mobile application.
+</p>FinTrack is a personal expense tracking application designed to help users manage daily and monthly spending. This Privacy Policy explains how information is handled when you use the FinTrack mobile application.
 
 By using the FinTrack app, you agree to the practices described in this Privacy Policy.
 
@@ -17,7 +15,7 @@ The application can be used by:
 - Individuals
 - Students
 - Families
-- Anyone who wants to track and manage spending
+- Anyone who wants to track spending
 
 FinTrack is not specifically directed toward children under the age of 13.
 
@@ -33,17 +31,13 @@ This may include:
 - Expense data entered by users such as categories, budgets, and transaction amounts
 - Technical information required for application functionality
 
-FinTrack does NOT collect sensitive personal information such as:
-
-- Bank account details
-- Credit card numbers
-- Government identification numbers
+FinTrack does NOT collect sensitive personal information such as bank account details, credit card numbers, or government identification numbers.
 
 ---
 
 How We Use the Information
 
-The information collected is used only to provide the core functionality of the application, including:
+The information collected is used only to provide the core features of the application, including:
 
 - Storing expense records
 - Synchronizing data using Firebase cloud services
@@ -62,7 +56,7 @@ FinTrack uses Google Firebase services for backend functionality such as:
 - Secure cloud database storage
 - Data synchronization
 
-Firebase may collect certain technical information as described in Google's Privacy Policy.
+Firebase may collect technical information as described in Google's Privacy Policy.
 
 Google Privacy Policy:
 https://policies.google.com/privacy
@@ -83,11 +77,11 @@ Microphone Permission
 
 FinTrack may request Microphone permission for voice-based expense entry.
 
-Example voice command:
+Example command:
 
-Add grocery 200
+"Add grocery 200"
 
-Voice input is processed using the device’s speech recognition service and audio is not stored by FinTrack.
+Voice input is processed using the device speech recognition service and audio is not stored by FinTrack.
 
 ---
 
@@ -105,7 +99,7 @@ Data Security
 
 User data is stored securely using Firebase cloud infrastructure.
 
-We take reasonable steps to protect information from unauthorized access, misuse, or disclosure.
+We take reasonable precautions to protect information from unauthorized access.
 
 However, no method of electronic storage or transmission over the internet is 100% secure.
 
@@ -119,17 +113,13 @@ FinTrack does not share personal user data with third parties except when requir
 
 Children's Privacy
 
-FinTrack is not intended for children under the age of 13.
-
-The application does not knowingly collect personal information from children.
+FinTrack is not intended for children under the age of 13 and does not knowingly collect personal information from children.
 
 ---
 
 Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time.
-
-Any changes will be posted on this page.
+This Privacy Policy may be updated from time to time. Updates will be posted on this page.
 
 ---
 
@@ -137,4 +127,4 @@ Contact
 
 If you have any questions about this Privacy Policy, you may contact:
 
-Email: chemtech596@gmail.com
+📧 chemtech596@gmail.com
