@@ -136,10 +136,6 @@ You can delete your data in two ways:
 All deletion requests are processed within a reasonable timeframe.
 
 
-To request data deletion, please contact:
-[chemtech596@gmail.com](mailto:chemtech596@gmail.com)
-
-Requests will be processed within a reasonable timeframe.
 
 ---
 
