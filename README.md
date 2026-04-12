@@ -122,7 +122,19 @@ FinTrack does not share personal user data with third parties except when requir
 
 ### Data Deletion
 
-Users can request deletion of their account and associated data at any time.
+Users have full control over their data in FinTrack.
+
+You can delete your data in two ways:
+
+1. In-App Reset:
+   The app provides a "Reset Data" option that permanently deletes all stored expense data from your account.
+
+2. Account Deletion Request:
+   Users can request complete account and data deletion by contacting:
+   [chemtech596@gmail.com](mailto:chemtech596@gmail.com)
+
+All deletion requests are processed within a reasonable timeframe.
+
 
 To request data deletion, please contact:
 [chemtech596@gmail.com](mailto:chemtech596@gmail.com)
